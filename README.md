@@ -1,3 +1,5 @@
+* [ ] 
+
 # A Concise Introduction to Robot Programming with ROS2 - Code Repository
 
 [![rolling](https://github.com/fmrico/book_ros2/actions/workflows/rolling.yaml/badge.svg)](https://github.com/fmrico/book_ros2/actions/workflows/rolling.yaml)
